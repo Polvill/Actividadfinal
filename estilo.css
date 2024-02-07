@@ -1,0 +1,94 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+
+ul{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    list-style-type: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+li{
+    display: inline-block;
+    padding: 25px;
+    background-color: rgb(133, 12, 233);
+    border-radius: 55px;
+    
+}
+
+a{
+    color: rgb(253, 250, 250);
+    text-decoration: none;
+}
+
+#entrantes{
+    text-transform: uppercase;
+    font-weight: bold;  
+    font-size: 50px;   
+    color: rgb(255, 255, 255); 
+}
+
+#hamburguesas{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h2{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    background-color: rgb(133, 12, 233);
+}
+
+#postres{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+#bebida{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.plato{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+}
+
+p{
+    text-transform: uppercase;
+    
+}
+
+.precio{
+    background-color: rgb(133, 12, 233);
+    border-radius: 55px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    width: 80px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
